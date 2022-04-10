@@ -1,10 +1,5 @@
 ﻿
-Percentile;Year;
-Brazil;
-Argentina;
-Peru;
-Colombia;
-Bolivia;
+Percentile;Year;Brazil;Argentina;Peru;Colombia;Bolivia;
 pall;2000;13674.2058;14309.3676;7982.0817;10527.2155;7209.7519
 pall;2001;13485.6378;13402.1375;7893.2301;10212.1045;7176.1638
 pall;2002;13533.1881;11236.8181;8112.5956;10115.5717;7181.177
